@@ -215,8 +215,8 @@ span.strike {
 	.nav {
 		left: 40px;
 		font-size: 48px;
-		margin-right: 25px;
 	}
+	h4 { margin-right: 25px; }
 	.title, .print, .about, .info {
 	width: 500px;
 	height: 100px;
