@@ -210,9 +210,10 @@ span.strike {
 @media (-webkit-min-device-pixel-ratio: 2),
   (min-resolution: 192dpi) {
     h2 {
-		font-size: 64px;
+		font-size: 72px;
 	}
 	.nav {
+		left: 40px;
 		font-size: 48px;
 	}
 }
