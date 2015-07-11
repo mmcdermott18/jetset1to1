@@ -208,7 +208,7 @@ span.strike {
 
 }
 
-@media (-webkit-min-device-pixel-ratio: 2),
+/*@media (-webkit-min-device-pixel-ratio: 2),
   (min-resolution: 192dpi) {
     h2 {
 		font-size: 100px;
@@ -233,7 +233,7 @@ span.strike {
 		font-size: 1em;
 	}
 	
-}
+}*/
 
 @page {
   size: A4;
